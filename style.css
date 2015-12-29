@@ -1,0 +1,23 @@
+body {
+  color: #333;
+  font-size: 4em;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#title {
+  font-family: "Nitro A", "Nitro B";
+}
+
+#soon {
+  font-family: "Verlag A", "Verlag B";
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 1em;
+}
