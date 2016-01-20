@@ -1,17 +1,29 @@
 body {
   color: #333;
-  font-size: 4em;
-  text-align: center;
   font-style: normal;
   font-weight: 400;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
 }
 
 #title {
   font-family: "Nitro A", "Nitro B";
 }
 
-#soon {
+p, ul {
   font-family: "Verlag A", "Verlag B";
+  list-style: none;
+}
+
+img {
+  width: 80%;
+}
+
+.email {
+  width: 40%;
 }
 
 .centered {
