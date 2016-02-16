@@ -4710,7 +4710,8 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  justify-content: center; }
+  justify-content: center;
+  overflow-x: hidden; }
 
 strong {
   font-weight: 900 !important; }
@@ -4728,5 +4729,3 @@ strong {
 hr {
   margin-bottom: 3em;
   margin-top: 3em; }
-
-/*# sourceMappingURL=style.css.map */

@@ -8312,6 +8312,10 @@ html {
   font-size: 14px;
 }
 
+html, body {
+  overflow-x: hidden;
+}
+
 body {
   padding-top: 2rem;
   padding-bottom: 2rem;
